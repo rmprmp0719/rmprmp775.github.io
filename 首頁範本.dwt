@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>宅宅天地</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#header {
+	height: 300px;
+	margin-bottom: 10px;
+	background-image: url(file:///C|/Users/knu/Desktop/%E6%88%91%E7%9A%84%E8%8B%B1%E9%9B%84%E5%AD%B8%E9%99%A2-%E7%B4%A0%E6%9D%90/705086_resized.jpg);
+}
+#container {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	-webkit-box-shadow: 4px 4px 4px #949494;
+	box-shadow: 4px 4px 4px #949494;
+}
+#footer {
+	height: 30px;
+	padding-top: 10px;
+	padding-left: 10px;
+	clear: both;
+	color: #FFFFFF;
+	font-size: 10pt;
+	background-color: #4D4D4D;
+}
+#content {
+	width: 620px;
+	padding-left: 20px;
+	padding-bottom: 50px;
+	float: left;
+	height: 0px;
+}
+#sidebar {
+	width: 250px;
+	float: right;
+	padding-right: 20px;
+	padding-bottom: 0px;
+}
+body {
+	background-image: url(file:///C|/Users/knu/Desktop/%E6%88%91%E7%9A%84%E8%8B%B1%E9%9B%84%E5%AD%B8%E9%99%A2-%E7%B4%A0%E6%9D%90/815337.png);
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-attachment: fixed;
+	background-size: cover;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <div id="header"></div>
+  <div id="content">
+    <h1 style="color: #B79049; font-weight: bold;">我的英雄學院</h1>
+    <!-- TemplateBeginEditable name="content" -->
+    <h2 style="color: #9F7852">介紹</h2>
+    <p>《我的英雄學院》，是日本漫畫家堀越耕平創作的一部現代社會背景下英雄題材少年漫畫，該作於2014年在日本漫畫雜誌《週刊少年Jump》32期起連載，之後被改編為各種系列的衍生作品，主要包括同名的動畫、電影、小說和電子遊戲等周邊媒體產品。 2017年榮獲SUGOI JAPAN Award漫畫部門首獎。</p>
+    <!-- TemplateEndEditable --></div>
+  <div id="sidebar">
+    <table width="100%" border="0" cellspacing="5" cellpadding="5">
+      <tbody>
+        <tr>
+          <td style="text-align: left; border-radius: 10px; font-weight: bolder; color:#B79049; font-size: 16pt;">CONTENTS</td>
+        </tr>
+        <!-- TemplateBeginEditable name="content-1" -->
+        <tr>
+          <td style="text-align: left; font-weight: normal; font-size: 10pt; border-bottom: thin dotted #B79049;">✯　<a href="file:///C|/Users/knu/Desktop/我的英雄學院-素材/index.html">我的英雄學院-首頁</a></td>
+        </tr>
+        <tr>
+          <td style="text-align: left; font-weight: normal; font-size: 10pt; border-bottom: thin dotted #B79049;">✯　劇情短解說</td>
+        </tr>
+        <tr>
+          <td style="text-align: left; font-weight: normal; font-size: 10pt; border-bottom: thin dotted #B79049;">✯　人物介紹-英雄</td>
+        </tr>
+        <tr>
+          <td style="text-align: left; font-weight: normal; font-size: 10pt; border-bottom: thin dotted #B79049;">✯　人物介紹-敵人</td>
+        </tr>
+        <tr>
+          <td style="text-align: left; font-weight: normal; font-size: 10pt; border-bottom: thin dotted #B79049;">✯　團隊介紹</td>
+        </tr>
+        <tr>
+          <td style="text-align: left; font-weight: normal; font-size: 10pt; border-bottom: thin dotted #B79049;">✯　短片</td>
+        </tr>
+        <!-- TemplateEndEditable -->
+      </tbody>
+    </table>
+  </div>
+  <div id="footer">此為介紹我的英雄學院</div>
+</div>
+</body>
+</html>
